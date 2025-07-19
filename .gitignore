@@ -1,0 +1,10 @@
+# Ignorar los PDFs de trabajo
+/data/pdfs/
+
+# Archivos temporales / caches
+*.DS_Store
+*.csv
+/rect_template.json
+/plan_de_salud.csv
+/captured_data.csv
+/.venv/ 

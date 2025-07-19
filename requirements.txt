@@ -1,0 +1,6 @@
+PyMuPDF==1.23.9
+pandas==2.2.3
+numpy==1.26.4
+tqdm==4.66.4
+matplotlib==3.8.3
+Pillow==10.2.0 
